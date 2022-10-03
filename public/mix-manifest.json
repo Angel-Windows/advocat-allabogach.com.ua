@@ -1,5 +1,18 @@
 {
     "/js/app.js": "/js/app.js",
     "/css/app.css": "/css/app.css",
-    "/res/Header.jpg": "/res/Header.jpg"
+    "/css/style.css": "/css/style.css",
+    "/res/case/case_about.jpg": "/res/case/case_about.jpg",
+    "/res/case_about.jpg": "/res/case_about.jpg",
+    "/res/Header.jpg": "/res/Header.jpg",
+    "/res/icon/Dom.png": "/res/icon/Dom.png",
+    "/res/icon/pin.png": "/res/icon/pin.png",
+    "/res/icon/telephone.png": "/res/icon/telephone.png",
+    "/res/Logo.png": "/res/Logo.png",
+    "/res/processed.jpeg": "/res/processed.jpeg",
+    "/res/Social/instagram.png": "/res/Social/instagram.png",
+    "/res/Social/phone (1).png": "/res/Social/phone (1).png",
+    "/res/Social/phone.png": "/res/Social/phone.png",
+    "/res/Social/telegram.png": "/res/Social/telegram.png",
+    "/res/Social/tiktok.png": "/res/Social/tiktok.png"
 }
